@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyVersion>1.0.3</AssemblyVersion>
+        <FileVersion>1.0.3</FileVersion>
+        <InformationalVersion>1.0.3</InformationalVersion>
+        <Version>1.0.3</Version>
+        <Title>Search Filters Library</Title>
+        <Description>This library extends IQueryable to ease the use of complex data filtering with Entity Framework Core.</Description>
+        <Copyright>SearchFilters Copyright (C) 2025 Javier Campón Pichardo</Copyright>
+        <PackageLicenseUrl>https://www.gnu.org/licenses/gpl-3.0.txt</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/Pitxi/SearchFilters</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Pitxi/SearchFilters</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>.NET Library Search Filters</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <LangVersion>default</LangVersion>
+    </PropertyGroup>
+</Project>
